@@ -1,4 +1,5 @@
 # CAR-PRICE-PREDICTION-
 
 
-![image](https://github.com/user-attachments/assets/6aca1162-68ba-41d7-a307-3cc5871bf910)
+
+![Screenshot 2025-04-18 222503](https://github.com/user-attachments/assets/02ffc859-835c-41c4-a6b9-93693653c1f6)
